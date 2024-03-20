@@ -1,0 +1,3 @@
+C:/Users/MSI Sword/Cursos/DSA/ArrayC/cmake-build-debug/CMakeFiles/ArrayC.dir
+C:/Users/MSI Sword/Cursos/DSA/ArrayC/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/MSI Sword/Cursos/DSA/ArrayC/cmake-build-debug/CMakeFiles/rebuild_cache.dir
